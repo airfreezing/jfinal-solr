@@ -1,4 +1,4 @@
-First you add create this plugin class.
+First you need create this plugin class.
 public class SolrPlugin implements IPlugin {
 	private String[][] servers;
 
