@@ -1,6 +1,9 @@
 /**********************************************************************
 First you need create this plugin class.
+<<<<<<< HEAD
 update:2016/8/7
+=======
+>>>>>>> 385d417994c59f7e75f91f4176523ed5679457bf
 **********************************************************************/
 public class SolrPlugin implements IPlugin {
 	private String[][] servers;
@@ -30,7 +33,10 @@ public class SolrPlugin implements IPlugin {
 }
 /**********************************************************************
 Then add this plugin in JFinalConfig.configPlugin
+<<<<<<< HEAD
 update:2016/8/7
+=======
+>>>>>>> 385d417994c59f7e75f91f4176523ed5679457bf
 **********************************************************************/
 
 		String[][] servers = {
