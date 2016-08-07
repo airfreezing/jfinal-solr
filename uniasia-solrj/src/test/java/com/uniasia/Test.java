@@ -1,4 +1,4 @@
-package com.uniasia;
+﻿package com.uniasia;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -16,9 +16,9 @@ import com.uniasia.solr.opt.SolrUpdate;
 
 public class Test {
 	public static void main(String[] args) {
-		 //pageSearch();
+		pageSearch();
 		factorySearch();
-		//commonSearch();
+		commonSearch();
 	}
 	
 	private static int process = 0;
